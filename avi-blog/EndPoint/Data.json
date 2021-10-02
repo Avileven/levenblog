@@ -1,0 +1,37 @@
+{
+    "blogs": [
+      {
+        "title": "Mobile first",
+        "body": "During recent years there is an increased use of watching web sites via the mobile. Actually, numbers show that on average, 70% of new web’s campaigns  are targeted to mobile users. \n\nSince the reality has changed, we need to change our web development strategy. meaning , we should first design and develop our website for the mobile platform and only then adopt it to the desktop. \n\nDue to the mobile platform limitations such as screen side , we should also change the overlook of the site to be fitted to the “eyeballs” of the users. \n\nFrom a user experience perspective, we should focus only on displaying important data on the screen and adopt a “drop down” attitude to the content creation.  \n\nFrom performance considerations, we should limit the amount of pictures ,movies and “ motion effects”  that are loaded on the screen. \n",
+        "author": "Avi Leventhal",
+        "img": "mobile.jpg",
+        "cat": "Internet",
+        "date": "30.7.2021",
+        "id": 5
+      },
+      {
+        "title": "Digital Marketing ",
+        "body": "During recent years there is an increased use of watching web sites via the mobile. Actually, numbers show that on average, 70% of new web’s campaigns  are targeted to mobile users. \n\nSince the reality has changed, we need to change our web development strategy. meaning , we should first design and develop our website for the mobile platform and only then adopt it to the desktop. \n\nDue to the mobile platform limitations such as screen side , we should also change the overlook of the site to be fitted to the “eyeballs” of the users. \n\nFrom a user experience perspective, we should focus only on displaying important data on the screen and adopt a “drop down” attitude to the content creation.  \n\nFrom performance considerations, we should limit the amount of pictures ,movies and “ motion effects”  that are loaded on the screen. \nDigital marketing is considered to be a new term or function. Around 20 years ago , there was a group  of people that suggested that the Internet is “just a fashion” or a gimmick and will soon disappear from the world. It is clear that they were wrong big time. Today , the digital world has become the “real world”. The same as Hounders of a year ago, while the world was ruled by only a few Empires-the digital world is also dominated by only a few players as Google, Amazon  and Facebook .\n\nThe operational step in digital marketing is to “produce  presence” or in other words to create a web site. \n\nThe process of building a website for your business should be  treated as creating   a  physical store. \nThe main questions  that should be considered , while we build our website are:  How would potential clients  “arrive” to your website and how to convince the visitors to stay longer and re-visit it. \n\nFinally ,  we should make sure that the look & feel of our website will suit our potential visitors or clients. \n\nFor example, you wouldn't invest in a fancy store if your business strategy is to sell cheap products.\n\nAt the end of the day, your website is just a click away from your competitor, and usually you have only one chance to convince your visitors to “stay” with you.  \n\n",
+        "author": "Avi Leventhal",
+        "cat": "Internet",
+        "date": "30.3.2021",
+        "id": 13
+      },
+      {
+        "title": "Mcdonalds and market research",
+        "body": "Vendors and small businesses spend time on market research. one important parameter in market research is to learn from  the experience of successful businesses .  \n\nFor example , I have chosen to focus on  Mcdonalds , due to the fact that it became a market leader in the fast food industry. There are over 36k branches of  Mcdonalds spread into 120 countries.\n\nFew interesting points one can learn about Mcdonalds:  \nIt started off with business innovation in the fast food industry. \nThe original founders were able to lead it only to a proof of concept , until someone else was able to take it to the next level.\nThey invested lots of energy in branding .\n\nIt also recommended studying Mcdonald's business crises and how they successfully dealt with them.\n",
+        "author": "Avi Leventhal",
+        "cat": "Business",
+        "date": "20.2.2021",
+        "id": 17
+      },
+      {
+        "title": "Cruises managment",
+        "body": "Cruises take a significant part of our life.   \nThere are a variety of events and difficulties we face during our short life and few of them could lead to a cruise in different levels. \nFor example: divorce, loss of a loved one, losing our work position etc.\nif we do not deal with those events in the right process, it could lead  to a mental cruise.\nMental cruises could lead to panic attacks,nervousness  and a growing sense of desperation.\n\nIn most cases ,  it is not wise to deal with  a cruise only  by yourself and it is recommended to get external support from family, friends or professionals.\n",
+        "author": "Avi Leventhal",
+        "cat": "General",
+        "date": "30.8.2021",
+        "id": 18
+      }
+    ]
+  }
