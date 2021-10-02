@@ -1,13 +1,12 @@
 
 
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
-import BlogDetails from './components/BlogDetails';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
 import NotFound from './pages/NotFound';
 import Articles from './pages/Articles';
 import NewArticles from './pages/NewArticles';
+import BlogDetails from './components/BlogDetails';
 
 
 
@@ -28,7 +27,7 @@ function App() {
               <Articles />
             </Route>
              <Route path="/blogs/:id">
-              <BlogDetails />
+              <BlogDetails/> 
             </Route>
             <Route path="*">
               <NotFound />

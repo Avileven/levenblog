@@ -1,4 +1,4 @@
-import useFetch from "../useFetch";
+import useFetch from "../components/useFetch";
 import Internet from "../components/Internet";
 import Business from "../components/Business";
 import General from "../components/General";

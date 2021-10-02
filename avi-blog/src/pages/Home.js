@@ -1,6 +1,6 @@
 import pic from '../image/avi5.png'
-import piclink from '../image/linked.png'
 import picface from '../image/facebook.png'
+import piclink from '../image/linked.png'
 
 
 

@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import useFetch from "../useFetch";
+import useFetch from "./useFetch";
 
 // this page link the titles of the blogs to the body and image using the api useFetch
 // we use the useParam hook to fetch the id of an article , so we could link to a specific article
